@@ -1,6 +1,9 @@
 # TutoRedditFront
-
+Front end of Reddit Clone Tutorial.<br />
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.4.
+
+# Backend code
+https://github.com/yousrak-hub/tuto-reddit-clone
 
 ## Development server
 
